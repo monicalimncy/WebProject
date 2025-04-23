@@ -1,1 +1,1 @@
-# WebProject
+# image slider project
